@@ -18,8 +18,9 @@ To compose the code to determine whether the topological ordering for the follow
 ```
 /*
 Program to determine whether the topological ordering for the following graph is possible or not
-Developed by: SHIVRAJ R 
-RegisterNumber: 212223110051
+Developed by: SHASHANK R 
+RegisterNumber: 2122233230205
+
 */
 
 int main()
