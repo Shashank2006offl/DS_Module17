@@ -19,8 +19,9 @@ To write a printQueue C function of the given graph that is to be traversed in t
 ```
 /*
 Program to traverse graph using BFS
-Developed by: SHIVRAJ R 
-RegisterNumber: 212223110051
+Developed by: SHASHANK R 
+RegisterNumber: 2122233230205
+
 */
 void printQueue(struct queue* q) {
   int i = q->front;
